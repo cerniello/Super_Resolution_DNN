@@ -2,9 +2,14 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![PyPI Status Badge](https://badge.fury.io/py/tensorflow.svg)](https://pypi.org/project/tensorflow/)
+
+
 This is a project about Neural Networks for Data Science course implementing a state-of-the-art architecture from a given scientific paper (see [1]). More specifically, we will construct the Robust-UNet architecture aiming to improve the resolution of an input images using a particular dataset.
 
 ![RUNet Architecture](https://raw.githubusercontent.com/cerniello/Super_Resolution_DNN/master/img/00_RUnet.png)
+
 
 ## Results:
 
