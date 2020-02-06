@@ -1,5 +1,7 @@
 # Super-Resolution Using Deep Convolutional Networks
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 This is a project about Neural Networks for Data Science course implementing a state-of-the-art architecture from a given scientific paper (see [1]). More specifically, we will construct the Robust-UNet architecture aiming to improve the resolution of an input images using a particular dataset.
 
 ![RUNet Architecture](https://raw.githubusercontent.com/cerniello/Super_Resolution_DNN/master/img/00_RUnet.png)
